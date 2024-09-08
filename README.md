@@ -1,4 +1,11 @@
-## Hi there 👋
+
+![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f312a4c5f516f41473836336c3851767178704e79426971772e676966](https://github.com/user-attachments/assets/aec973f0-478a-47c5-8abf-5f020689a894)
+
+# Hi 👋, I'm Danil
+
+##  [![wakatime](https://wakatime.com/badge/user/018d50b6-b995-428a-8534-e470dbc61a8e.svg)](https://wakatime.com/@018d50b6-b995-428a-8534-e470dbc61a8e)   beginner Frontend Developer
+
+
 
 <!--
 **sh0rk1n/sh0rk1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
